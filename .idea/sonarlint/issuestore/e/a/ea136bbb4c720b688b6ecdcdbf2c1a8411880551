@@ -1,0 +1,12 @@
+
+_
+java:S1643"Use a StringBuilder instead.(÷íºÃ8ûÄ¹•£2J$ac3748b0-7760-4e5f-8176-78c869264cf5
+]
+java:S1220""Move this file to a named package.8ıÄ¹•£2J$b415ab05-f6e7-4e0e-b999-56df58fb6490
+z
+java:S1854"7Remove this useless assignment to local variable "arr".(ŞïĞß8â×³¤2J$fe3f64a3-f78f-478d-9ace-e873b8760627
+k
+java:S1481"(Remove this unused "arr" local variable.(ŞïĞß8 â×³¤2J$c40ac3c3-5aa8-448e-81bf-101ea4a481a2
+ƒ	java:S125	"<This block of commented-out lines of code should be removed.(©¶’¤üÿÿÿÿ8ğÍ³¤2J$7083fc90-0a1b-43b7-9df3-696982d2afa3
+m	java:S106"+Replace this use of System.out by a logger.(µ®¶¼8ÌÅ¹•£2J$0e20d2d3-7497-42ec-b568-da15a81ad04c
+r	java:S106"+Replace this use of System.out by a logger.(¶ôÛâÿÿÿÿÿ8ÍÅ¹•£2J$7f661fa6-a608-436b-9567-275ddbc40842

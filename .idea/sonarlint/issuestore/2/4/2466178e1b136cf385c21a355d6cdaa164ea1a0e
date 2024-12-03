@@ -1,0 +1,7 @@
+
+m	java:S106"+Replace this use of System.out by a logger.(¯€ßÔ8³‹å™¥2J$a0add114-9f0d-4781-a700-c6e720fc5625
+m	java:S106"+Replace this use of System.out by a logger.(ÊÒÆ¡8´‹å™¥2J$f881ecbd-311b-4311-aaf3-fcc64e354271
+t
+java:S1602 ",Remove useless curly braces around statement(ª×Ûþýÿÿÿÿ8¶‹å™¥2J$611782d3-3736-41c5-a941-5a882d95b821
+’
+java:S1612 "JReplace this lambda with method reference 'reentrantExample::outerMethod'.(ª×Ûþýÿÿÿÿ8¸‹å™¥2J$1d9cdca1-af53-43c3-8195-a992f8449beb

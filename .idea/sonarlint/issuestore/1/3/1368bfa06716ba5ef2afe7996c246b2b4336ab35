@@ -1,0 +1,10 @@
+
+i	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(¶†ž¢8ñ©ø˜«2
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(²ÖáÚÿÿÿÿÿ8ô©ø˜«2
+V
+java:S1854"9Remove this useless assignment to local variable "task3".(÷’ä“8‚ªø˜«2
+G	java:S106"+Replace this use of System.out by a logger.( °™Ì8‡ªø˜«2
+G	java:S106"+Replace this use of System.out by a logger.(®Ž¡¼8ˆªø˜«2
+G	java:S106"+Replace this use of System.out by a logger.(÷’ä“8‰ªø˜«2
+G
+java:S1481"*Remove this unused "task3" local variable.(÷’ä“8‹ªø˜«2

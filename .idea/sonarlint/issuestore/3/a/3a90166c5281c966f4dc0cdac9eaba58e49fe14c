@@ -1,0 +1,21 @@
+
+	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8ÙêÁ©©2J$8cd6b03f-e67f-4bf0-8dfa-b3579a5e25fb
+	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8ìÆÂ©©2J$60eaec98-1c9d-45d0-b03e-9350f2c062c6
+	java:S1129"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8–ŒÈ©©2J$a262cf7e-47bd-4e01-b8ad-bdfd389fd1e8
+¡	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(²ÖáÚÿÿÿÿÿ8—ÂÀ©©2J$27db0746-ea00-4b68-9d4f-8cef22e6c33a
+¡
+java:S2142"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ä ¹€8ñêÁ©©2J$b414855c-c18d-4c58-9073-9027a7bae69e
+r	java:S106"+Replace this use of System.out by a logger.(ÇúÁùÿÿÿÿ8‰ÌÒ©©2J$1f53eb84-315d-47bc-88df-cb8f77d69521
+x
+java:S2446"0"notify" may not wake up the appropriate thread.(óÄ£¶øÿÿÿÿ8‰ÌÒ©©2J$9d68b695-787d-493f-8b0c-9932aab1f753
+¡
+java:S2142"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ä ¹€8˜ÇÂ©©2J$aae44b0d-c942-41cb-a142-eba06e64bde3
+L	java:S106 "+Replace this use of System.out by a logger.(”ÿöâıÿÿÿÿ8¹“Ó©©2
+R
+java:S2446""0"notify" may not wake up the appropriate thread.(óÄ£¶øÿÿÿÿ8¹“Ó©©2
+Š
+java:S1612,"BReplace this lambda with method reference 'printNumber::printOdd'.(Ç»ùÿÿÿÿ8ÏŠÁ©©2J$23adc37b-1e4f-4c3e-be27-89fb0abbcffb
+†
+java:S1612-"CReplace this lambda with method reference 'printNumber::printEven'.(ÚÛ×8µÉÃ©©2J$5ada2842-607b-4355-91cb-4856ca659110
+¡
+java:S21428"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ä ¹€8²ŒÈ©©2J$0201735b-609e-48fe-a015-8ddfabf7f8b8

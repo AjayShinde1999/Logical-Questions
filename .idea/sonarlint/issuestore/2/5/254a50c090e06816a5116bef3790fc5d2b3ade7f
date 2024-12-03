@@ -1,0 +1,10 @@
+
+	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(‰™Ù“8ïøÕ£©2J$423b2bc7-abd5-455a-8a9b-91f12753acfb
+¡	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(²ÖáÚÿÿÿÿÿ8ğøÕ£©2J$17243129-d4ed-47c9-851f-b764d6ec9bc9
+|
+java:S1854"9Remove this useless assignment to local variable "task2".(®¡¼8åâÖ£©2J$2f956ac5-0379-4315-b814-65e67b2830bf
+m	java:S106"+Replace this use of System.out by a logger.( °™Ì8÷øÕ£©2J$d011b097-4684-4d3f-ab7b-0104c7f52bb7
+m	java:S106"+Replace this use of System.out by a logger.(®¡¼8÷øÕ£©2J$4fc09643-ca29-49f3-9bb5-e4152fff6377
+m
+java:S1481"*Remove this unused "task2" local variable.(®¡¼8èâÖ£©2J$73d3af86-8f81-4bd1-a8be-63fefbb40806
+m	java:S106"+Replace this use of System.out by a logger.(÷’ä“8øøÕ£©2J$d3f42b6a-9554-4145-8232-dfecdab9df97

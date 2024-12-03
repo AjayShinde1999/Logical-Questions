@@ -1,0 +1,23 @@
+
+¡
+java:S2142"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ä ¹€8éÏó®¥2J$cb0d6f29-7df7-4c4e-8289-8db85498b3ec
+k	java:S108")Either remove or fill this block of code.(ä ¹€8ëÏó®¥2J$17ab5aaa-3f31-43e5-b38b-6f24c00d3131
+x
+java:S2446"0"notify" may not wake up the appropriate thread.(óÄ£¶øÿÿÿÿ8íÏó®¥2J$b0cd1d1b-92a9-4065-a76d-d1aa5c9f82b1
+¡
+java:S2142"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ä ¹€8ìÏó®¥2J$02028302-b8e7-462f-9a7d-93d3911c58f9
+k	java:S108")Either remove or fill this block of code.(ä ¹€8ìÏó®¥2J$d257d06a-f937-4371-b8e2-76d39901ccdd
+x
+java:S2446"0"notify" may not wake up the appropriate thread.(óÄ£¶øÿÿÿÿ8Äïó®¥2J$123f966f-cc4c-4071-9913-42f1b1825749
+}
+java:S1161'":Add the "@Override" annotation above this method signature(“–ýþ8ðÏó®¥2J$3d204dda-6152-4d07-892b-f1a53deaabcb
+m	java:S106*"+Replace this use of System.out by a logger.(“’™ª8ñÏó®¥2J$cd0256d0-3405-4b54-b96c-27c53b084a62
+¡
+java:S2142-"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ä ¹€8Ü¸…¯¥2J$d120eea2-b784-4a30-91c2-516d3af6ee56
+k	java:S108-")Either remove or fill this block of code.(ä ¹€8Ü¸…¯¥2J$8583ffc2-45a1-4c58-930e-5d2841e79dff
+}
+java:S1161:":Add the "@Override" annotation above this method signature(“–ýþ8òÏó®¥2J$f14c44c2-bfbe-4095-9d92-88b02f3f77b9
+r	java:S106="+Replace this use of System.out by a logger.(ÃõŽÌúÿÿÿÿ8óÏó®¥2J$0f6cca96-ab30-4922-a867-7d2659f582a4
+{
+java:S2142@"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ä ¹€8¾Û…¯¥2
+E	java:S108@")Either remove or fill this block of code.(ä ¹€8¿Û…¯¥2

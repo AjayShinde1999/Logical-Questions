@@ -1,0 +1,14 @@
+
+}
+java:S1141"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ8†ºı˜¥2J$07b5b6d9-b48a-46b4-a0cc-f7558f83bc42
+m	java:S106"+Replace this use of System.out by a logger.(¸¡©²8ú§ü˜¥2J$94475232-3da6-492c-b39f-951f2376587d
+¡
+java:S2142 "^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ä ¹€8˜ºı˜¥2J$a99515fc-c9a8-4095-99f1-9f04e1506f08
+r	java:S106"+Replace this use of System.out by a logger.(ìì èşÿÿÿÿ8™ºı˜¥2J$44ec2dd1-0ccc-4c26-8ba1-595e9914dd04
+¡
+java:S2142"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ä ¹€8™ºı˜¥2J$800db7f8-342c-4a1d-a2a9-00b353029f68
+k	java:S108")Either remove or fill this block of code.(ä ¹€8›ºı˜¥2J$6b0a6155-5313-418f-97fc-bc840c61c185
+r	java:S106"+Replace this use of System.out by a logger.(¿Ÿ¸ìúÿÿÿÿ8œºı˜¥2J$d3099627-7703-4167-ac93-be5d548160b6
+m	java:S106"+Replace this use of System.out by a logger.(½µ×º8œºı˜¥2J$75d10c02-53a1-4f93-a2e5-00aa1f41d14b
+r	java:S106"+Replace this use of System.out by a logger.(‘•ˆÌûÿÿÿÿ8ºı˜¥2J$be3e775f-80b7-4213-b56a-c6109844582f
+k	java:S108 ")Either remove or fill this block of code.(ä ¹€8ú‰ÿ˜¥2J$e0dbd5d5-8224-4ad4-8463-b99e528e9ad0

@@ -1,0 +1,10 @@
+
+¡	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(²ÖáÚÿÿÿÿÿ8ÕÃ² ©2J$9479597d-a6be-4a32-b7dc-766b64cd7500
+m	java:S106"+Replace this use of System.out by a logger.(Ù©È±8ãÃ² ©2J$79131254-5132-4071-9b6a-63145d42dc0c
+r	java:S106"+Replace this use of System.out by a logger.(÷ˆéıÿÿÿÿ8ïÃ² ©2J$8cfbb46f-02df-4e24-ba83-7b56e2677349
+ƒ
+java:S1612";Replace this lambda with method reference 'counter::count'.(ÊÒô¤ÿÿÿÿÿ8æÃ² ©2J$64ef08d1-a117-45db-b236-4e4ed5e1a22f
+¡
+java:S2142 "^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(”ı¾8ìÃ² ©2J$7903bb55-d10a-473e-80e4-75406bbb2ecc
+r	java:S106!"+Replace this use of System.out by a logger.(¨¶ÑÍşÿÿÿÿ8£Ğ³ ©2J$be70cf76-adf5-48a3-9325-0b30879bc2c1
+r	java:S106$"+Replace this use of System.out by a logger.(¿â¬íúÿÿÿÿ8Ñ¢¹ ©2J$bb9c0fe7-b167-4899-9eb4-5d77e849b894

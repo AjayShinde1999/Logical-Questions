@@ -1,0 +1,6 @@
+
+–
+java:S2975"SRemove this "clone" implementation; use a copy constructor or copy factory instead.(¯áÑë8™¥Úº¤2J$7eaa094e-7763-4f1c-a92b-4a7cadaee933
+l	java:S106"+Replace this use of System.out by a logger.(Æ®€,8¥Ğı˜2J$e7d2b68d-9965-47ec-a417-0cfafa667aa1
+l	java:S106"+Replace this use of System.out by a logger.(¦”¹h8§Ğı˜2J$a8a77411-c9b8-4e44-b7e1-868713a17250
+r	java:S106"+Replace this use of System.out by a logger.(¨¶ÑÍşÿÿÿÿ8°³Óı˜2J$8f9c2525-ed26-4145-b99c-695f352271a9

@@ -1,0 +1,8 @@
+
+ú	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(‡’∞≠8ÑØÚ∫§2J$fa83e24e-cb68-4955-989f-de62ff1d7a55
+ñ
+java:S2975"SRemove this "clone" implementation; use a copy constructor or copy factory instead.(Ø·—Î8ãØÚ∫§2J$88efa247-666c-44b1-ad85-83f41ae600f7
+m	java:S106)"+Replace this use of System.out by a logger.(…º¥ı8êØÚ∫§2J$e1f8f804-4b57-4957-9062-bb21198eebc4
+]	java:S125'"<This block of commented-out lines of code should be removed.(˚ﬁì˛˚ˇˇˇˇ8®æÛ∫§2
+m	java:S106+"+Replace this use of System.out by a logger.(ç–’ç8êØÚ∫§2J$92db03e3-9984-4b3a-9485-cab963e7059e
+r	java:S106,"+Replace this use of System.out by a logger.(Ë≈Ê˘¯ˇˇˇˇ8ëØÚ∫§2J$11bffe61-93c7-4378-931b-93b1e7ba1001

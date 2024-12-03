@@ -1,0 +1,11 @@
+
+]
+java:S1220""Move this file to a named package.8£ÿØ§¢2J$596a6f0a-70dc-4a5c-aebb-e50b0da94f24
+˜
+java:S1149"PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(ÑÖÙƒıÿÿÿÿ8¦½¨¢2J$e2ebb65c-ac57-4e30-a8c7-8d9e941e7832
+m	java:S106"+Replace this use of System.out by a logger.(¨º¨ç8©½¨¢2J$07aea2ef-15b2-4e67-82bf-48981ba0e55e
+~	java:S125"<This block of commented-out lines of code should be removed.(Ö—•‡8éİ½¨¢2J$3d0c28dc-a293-48ea-a8e3-e4d468f96616
+š
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 17 to the 15 allowed.(î–ışÿÿÿÿ8ª½¨¢2J$c3fab8ea-e449-4213-9485-180e220b4262
+p
+java:S1128".Remove this unused import 'java.util.HashSet'.(Ê‚êX8Ä„·ª¢2J$632ece5e-10db-4e61-a86b-0debaa4fafed

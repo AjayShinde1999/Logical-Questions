@@ -1,0 +1,10 @@
+
+¡	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ìÊòşÿÿÿÿ8ŠŸÿš¦2J$0f5e30e2-e831-4360-a44c-1d045843d05f
+m	java:S106"+Replace this use of System.out by a logger.(Ü¥§ì8¢Ÿÿš¦2J$193ad3d3-80c2-451e-bde5-f082cd5961e0
+r	java:S106"+Replace this use of System.out by a logger.(÷Í òùÿÿÿÿ8£Ÿÿš¦2J$b8e64e31-ec01-4f5b-9a0e-550523196a3e
+m	java:S106"+Replace this use of System.out by a logger.(ˆ´Îã8¤Ÿÿš¦2J$d82dec93-e9e7-4b59-b00d-2faa9f8ee913
+r	java:S106%"+Replace this use of System.out by a logger.(ß„ì”şÿÿÿÿ8¥Ÿÿš¦2J$9308dfea-ec80-4dfd-afc8-7fea7cc5ff91
+r	java:S106-"+Replace this use of System.out by a logger.(ƒ½İ”úÿÿÿÿ8¦Ÿÿš¦2J$950e590d-7f3c-4c3b-9d3a-627d5ca70557
+m	java:S1065"+Replace this use of System.out by a logger.(‹¶‘ª8§Ÿÿš¦2J$f1820ad4-3bc8-44b2-988c-549631df8363
+h
+java:S1128"%Remove this unused import 'java.awt'.(ï´µ©8°Ÿÿš¦2J$308cb55b-0ea9-48f8-8c3b-7ea8310a0597

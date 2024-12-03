@@ -1,0 +1,23 @@
+
+¡	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(²ÖáÚÿÿÿÿÿ8ÃªŒª©2J$d0620a24-b5c9-4bd4-af86-7680d33b20a4
+’	java:S116"PRename this field "LIMIT" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ùµàô8ÛªŒª©2J$b47ae0f6-3a34-48c6-a752-54d8e3f0c37a
+d
+java:S1170"!Make this final field static too.(Ùµàô8ÜªŒª©2J$96d9f97e-0aa2-49f2-8afe-f224ed1416f6
+¡
+java:S2142"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ä ¹€8ßªŒª©2J$c8ac86b2-41f0-4d9f-888d-b0b71ff36982
+m	java:S106"+Replace this use of System.out by a logger.(ĞªÅ©8àªŒª©2J$45f3e6e1-11de-4a55-a34f-306b698986c1
+s
+java:S2446"0"notify" may not wake up the appropriate thread.(Œ„ÔÜ8áªŒª©2J$c62f1374-af41-4250-a6eb-c8ecb1a31acf
+¡
+java:S2142"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ä ¹€8âªŒª©2J$0481d940-e9aa-4484-8f12-f174d5226ea0
+r	java:S106!"+Replace this use of System.out by a logger.(×›†øÿÿÿÿ8ãªŒª©2J$51dc4f83-f6bf-4051-a8bd-4f105a5ed9bd
+x
+java:S2446#"0"notify" may not wake up the appropriate thread.(à»Ôóüÿÿÿÿ8ãªŒª©2J$35a2b4b4-5692-45e1-8f9b-125282f07372
+ƒ	java:S125."<This block of commented-out lines of code should be removed.(˜ıŒêúÿÿÿÿ8çªŒª©2J$75f2273b-0eff-4d55-abe5-0c2bc0cc7e25
+ƒ
+java:S16121"@Replace this lambda with method reference 'generator::printOdd'.(ü˜±­8èªŒª©2J$8cff7a7b-7d61-497b-bf7a-4119af0218b1
+‰
+java:S16122"AReplace this lambda with method reference 'generator::printEven'.(²¶€€úÿÿÿÿ8êªŒª©2J$9cf32885-19fc-4a2a-8711-36a20062b118
+¡
+java:S2142?"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ä ¹€8ìªŒª©2J$70ec2bd4-ab4f-405c-94e0-23f313b97524
+m	java:S106C"+Replace this use of System.out by a logger.(¥×¨»8ìªŒª©2J$f3039582-28c9-4a59-a47c-9b93971705d6
